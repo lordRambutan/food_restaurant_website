@@ -1,0 +1,1 @@
+Hi, my name is Ganessa. This is my project. 1st click the index.html. After viewing the website, at the bottom/end of the page there is my portfolio, make sure to click the button.
